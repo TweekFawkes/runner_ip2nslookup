@@ -1,6 +1,6 @@
 runner:
-  name: IP to nslookup
-  description: Queries via nslookup for the provided IP address.
+  name: IP to Nslookup
+  description: Queries via Nslookup for the provided IP address.
   version: 0.0.1
 
 build:
